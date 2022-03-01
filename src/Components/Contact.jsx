@@ -68,6 +68,8 @@ class Contact extends React.Component {
        <button type="submit" class="btn btn-primary">
             Add
           </button>
+          <Link to ="/"> 
+     <button className='ui right floated primary button'>Contact List</button> </Link>
          
         </form>
       </div>
